@@ -17,8 +17,8 @@ def alphabet_war(fight):
         return "Let's fight again!"
 
 
-print alphabet_war("z")
-print alphabet_war("zdqmwpbs")
-print alphabet_war("wq")
-print alphabet_war("zzzzs")
-print alphabet_war("wwwwww")
+print(alphabet_war("z"))
+print(alphabet_war("zdqmwpbs"))
+print(alphabet_war("wq"))
+print(alphabet_war("zzzzs"))
+print(alphabet_war("wwwwww"))
